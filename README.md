@@ -1,0 +1,1 @@
+This set of files is an animation of a simple pendulum. Hopefully, this creates a visual of rotational motion concepts learned in a basic mechanics class. Everything except for the basic p5 JS template was mine. I used GitHub Copilot to make the template but the rest of the animation is all mine.
